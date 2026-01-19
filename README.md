@@ -1,0 +1,2 @@
+# MiniMusicSystem
+A personal project 
